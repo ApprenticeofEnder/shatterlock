@@ -1,0 +1,10 @@
+// Need:
+// - File Fragment
+// - Tag and IV for full encrypted file
+// - Fragment Index
+// - Total Fragments
+// - Encrypted Fragment Owner
+// - File Name
+//
+// - Also probably need at least some of this intel on the client?
+// - IPFS is a thing that exists!
