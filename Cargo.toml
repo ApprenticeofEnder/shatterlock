@@ -1,3 +1,3 @@
 [workspace]
 resolver = "2"
-members = ["client", "shatterlock", "server"]
+members = ["client/src-tauri", "shatterlock", "server"]
